@@ -1,3 +1,9 @@
+# Deprecated
+
+See [unorphan.js](https://github.com/rstacruz/unorphan) instead.
+
+----
+
 # jQuery Unorphan
 #### Obliterate text orphans.
 
